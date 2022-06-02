@@ -1,15 +1,4 @@
 # SmallCase_Clone
-This is my second Construct Week  Project
-I am use HTML, CSS ,JS and advance JS.
-It is a investment app to invest and earn money. 
-In this project I have to done signin and signup page and also front page are done by me.
-In front page I face some dificulties but I solve in 3 to 4 hourse.
-After hard effort by me and my team member the project is completed and its look similar to original website.
-
-Here I am put  deployee link you can see the my project --> https://inspiring-fudge-85f53e.netlify.app
-
-
-
 SmallCase Website clone .
 Hello Readers,
 
@@ -78,14 +67,15 @@ This is IT tracker page created by Thanigaivel here you can see the performance 
 
 
 The footer part created by Narayan
-![image](https://user-images.githubusercontent.com/99613481/171589234-886946d4-d85a-4cea-ba3c-df5af21b926d.png)
+
 
 when you click on the Subscribe button plz fill in your full mail it’s not allowed to access without your full mail id because we are your uses the required property.
-![image](https://user-images.githubusercontent.com/99613481/171589285-a2630919-e864-401d-ac66-4f8fe410dceb.png)
-
+![image](https://user-images.githubusercontent.com/99613481/171589234-886946d4-d85a-4cea-ba3c-df5af21b926d.png)
 
 and when you click on social buttons fount the social account of smallcase
+![image](https://user-images.githubusercontent.com/99613481/171589285-a2630919-e864-401d-ac66-4f8fe410dceb.png)
 
+Here I am put  deployee link you can see the my project --> https://inspiring-fudge-85f53e.netlify.app
 
 THANK YOU for reading and feel free to ask questions about the website and for your suggestions.
 
